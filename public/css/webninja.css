@@ -1,0 +1,29 @@
+body {
+	background-color: #252525
+}
+
+h2 {
+	color: #FFF
+}
+.panel {
+	background: #000
+}
+
+.panel h1 {
+	color: #999
+}
+
+.panel h2 {
+	color: #cccccc
+}
+
+.panel p, .panel span, .panel li {
+	color: #969696
+}
+
+
+
+
+
+
+

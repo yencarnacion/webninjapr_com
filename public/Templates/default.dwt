@@ -1,0 +1,127 @@
+<!-- HTML5 -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>WebNinja - Web development</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="author" content="Yamir Encarnaci&oacute;n (www.webninjapr.com)" />
+<meta name="description" content="Experts in web development. We do standards-compliant web design and programming. We build highly accessible websites that perform well in the search engines." />
+<meta name="keywords" content="webninja, webninjapr, web designers, web developers, web design, web programmer, website design, java programming,   css, html, javascript, xhtml, java, jsp, servlets, web standards, accessibility, san juan, puerto rico, web 2.0" />
+<!-- TemplateBeginIf cond="OptionalRegion2" --><!-- TemplateBeginEditable name="EditRegion4" -->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<script type="text/javascript" src="../_js/jquery.equalheights.js"></script>
+<script type="text/javascript" src="../_js/jquery.getParams.js"></script>
+<script type="text/javascript" src="../_js/sectionSlider.js"></script>
+<!-- TemplateEndEditable --><!-- TemplateEndIf -->
+<link href='http://fonts.googleapis.com/css?family=Chewy' rel='stylesheet' type='text/css'/>
+<link href='http://fonts.googleapis.com/css?family=Neucha' rel='stylesheet' type='text/css'/>
+<link rel="stylesheet" type="text/css" href="../_css/webNinjaPR.css" />
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-938033-4']);
+  _gaq.push(['_setDomainName', '.webninjapr.com']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<!-- TemplateParam name="OptionalRegion1" type="boolean" value="true" -->
+<!-- TemplateParam name="OptionalRegion2" type="boolean" value="true" -->
+</head>
+
+<body>
+	<div class="container">
+   	  <div class="logo"><h1 class="logoNeucha">WebNinja</h1></div>
+		<div class="header">
+			<h2>
+				You have arrived at WebNinja.<br />
+				We do web development.<br />
+			</h2>
+		</div>
+	  <!-- TemplateBeginIf cond="OptionalRegion1" -->
+<!-- TemplateBeginEditable name="EditRegion3" -->
+
+		<div class="section_intro">
+			
+		</div> 
+
+		<div class="content_intro"> 
+
+		</div> 
+        
+        <div class="section_presentation">
+        </div>
+
+        	
+		<div class="content3" style="display:none">
+		<!-- SERVICES -->
+		</div>
+
+  	  	<div class="content4" style="display:none">
+		<!-- PORTFOLIO -->
+
+    	</div>	
+		<!-- PORTFOLIO -->
+		<!-- TemplateEndEditable -->
+		<!-- TemplateEndIf -->
+		<!-- BOTTOM -->
+		<div class="content">
+
+			<div class="contentbottom">
+				
+				<div class="botleft sameHeightBottom">
+					<p>2000 Carr 8177<br/> Ste 26 PMB 323<br />
+						Guaynabo, PR<br />00966</p>
+				</div>
+				
+
+				
+				<div class="botMiddleLeft sameHeightBottom">
+					<p>1-877-WebNinja<br/>
+				   		1-877-932-6465<br/>	
+						<a href="mailto:info@webninjapr.com" title="Contact us">info@webninjapr.com</a>				
+						<br />
+					</p>
+				</div>
+				
+				<div class="botMiddleRight sameHeightBottom">
+					<p><strong>Upcoming</strong><br />
+						<span class="webNinjaName">WebNinja</span> will be at Google I/O 2011<!--<a href="docs/cv.pdf" title="Download CV in PDF-format" target="_blank">Acrobat (.pdf)</a><br />
+				<a href="#" title="Download CV in Word-format" target="_blank">Word (.doc)</a>--></p>
+				<div class="googleIOlogo"> 
+				<script src="http://www.google.com/events/io/2011/static/js/iobadge.js" type="text/javascript"></script> 
+				</div>
+				</div>
+				
+				<div class="botright sameHeightBottom">
+					<p><strong>Site info</strong><br />
+						Valid <a href="http://validator.w3.org/check?uri=referer" title="HTML5 Validator - opens in new window" target="_blank">HTML5</a> <!-- / -->
+					   	<a href="http://jigsaw.w3.org/css-validator/check/referer?profile=css3" title="CSS3 Validator - opens in new window" target="_blank">CSS3</a> <br />
+						<a href="../privacy.html">Privacy policy</a><br />
+						<a href="../terms.html">Terms &amp; conditions</a></p>
+				</div>
+				
+				<div class="clear"></div>
+
+			</div>
+
+		</div>
+		<!-- BOTTOM -->
+		<div class="tag"><p>v2.o</p></div>
+		
+
+	</div>
+
+	<div class="footer"></div>
+</body>
+</html>
